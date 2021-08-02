@@ -7,6 +7,15 @@
 **Database**
 * cartodb
 
+**Mapping**
+* leafletjs
+
+
+**Python Libraries**
+* urllib2/urllib3
+* requests
+* scrapy
+
 **SQL**
 * SQL Tabs
 
@@ -14,7 +23,4 @@
 * Nova
 * Sublime Text
 
-**Python Libraries**
-* urllib2/urllib3
-* requests
-* scrapy
+

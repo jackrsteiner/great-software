@@ -7,9 +7,13 @@
 **Database**
 * cartodb
 
-**Mapping**
+**Web Mapping**
 * leafletjs
+* Tableau and public.tableau
+* Mapbox
 
+**GIS Infrastructure**
+* GeoNode
 
 **Python Libraries**
 * urllib2/urllib3
